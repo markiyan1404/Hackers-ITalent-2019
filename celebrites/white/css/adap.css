@@ -1,0 +1,2962 @@
+@media only screen and (min-width:1630px) and (max-width: 1700px){
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+        font-size: 22px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 16.5px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+        font-size: 22px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 16.5px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+        font-size: 22px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 16.5px;
+}
+
+.mySlides img {
+    width: 35%;
+    height: 42vh;
+    padding: 50px 70px;
+    transform: scale(1.5);
+    margin-top: 5%;
+}
+}
+
+@media only screen and (min-width:1500px) and (max-width: 1630px){
+    .menuLi{
+    font-size: 500%;
+}
+
+.menuLi3{
+    font-size: 320%;
+}
+
+.leftIncon{
+    margin-left: -5%;
+}
+
+.mySlides img {
+    height: 40vh;
+    padding: 60px 70px;
+    transform: scale(1.6);
+    margin-top: 10%;
+}
+
+.hackerName{
+    padding-bottom: 3%;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(1.6);}
+  100%{opacity: 1;transform: translateY(0%) scale(1.6);}
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 22px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 22px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    margin-left: -15%;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 22px;
+}
+}
+@media only screen and (min-width:1400px) and (max-width: 1500px){
+
+.menuLi{
+    font-size: 500%;
+}
+
+.menuLi3{
+    font-size: 310%;
+}
+
+.leftIncon{
+    margin-left: -5%;
+}
+
+.closeMenu {
+    padding: 0 .55%;
+}
+
+.mySlides img {
+    height: 39vh;
+    padding: 60px 60px;
+    transform: scale(1.6);
+    margin-top: 10%;
+}
+
+.moreText{
+    margin-top: 8.5%;
+}
+
+.hackerName{
+    padding-bottom: 3%;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(1.6);}
+  100%{opacity: 1;transform: translateY(0%) scale(1.6);}
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 20px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 18px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 20px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 18px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 20px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 18px;
+}
+
+.hackerName{
+    font-size: 46px;
+}
+
+.white-hat{
+    transform: scale(.94);
+}
+
+.settingsModalBlockContent{
+    width: 30%;
+    left: 35%;
+    top: 25%;
+}
+
+.closeSettings{
+    top: 24%;
+    right: 36%;
+}
+
+}
+@media only screen and (min-width:1300px) and (max-width: 1400px){
+
+.settings_end_menu{
+    transform: scale(.92);
+}
+
+.menuLi{
+    font-size: 460%;
+}
+
+.menuLi3{
+    font-size: 300%;
+}
+
+.leftIncon{
+    margin-left: -5%;
+}
+
+.closeMenu {
+    padding: 0 .60%;
+    transform: scale(.9);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.9);}
+}
+
+.settingsModalBlockContent {
+    width: 30%;
+    left: 35%;
+    top: 26%;
+}
+
+.closeSettings {
+    right: 36%;
+    top: 25%;
+}
+
+.mySlides img {
+    height: 40vh;
+    padding: 50px 50px;
+    transform: scale(1.7);
+    margin-top: 12%;
+}
+
+.slideImg:hover {
+    transform: scale(1.5);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 8.5%;
+}
+
+.hackerName{
+    padding-bottom: 3%;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(1.7);}
+  100%{opacity: 1;transform: translateY(0%) scale(1.7);}
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 20px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 18px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 20px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 18px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 20px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 18px;
+}
+
+.hackerName{
+    font-size: 43px;
+}
+
+.next {
+    right: 20%;
+    transform: scale(.9);
+}
+
+.prev{
+    left: 20%;
+    transform: scale(.9);
+}
+
+.white-hat{
+    transform: scale(.94);
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.7);
+}
+
+.moreText{
+    margin-top: 10%;
+}
+
+.hackerName{
+    padding-bottom: 3%;
+}
+
+}
+@media only screen and (min-width:1200px) and (max-width: 1300px){
+.settings_end_menu{
+    transform: scale(.92);
+}
+
+.leftIncon{
+    margin-left: -5%;
+}
+
+.menuLi {
+    font-size: 430%;
+}
+
+.menuLi3{
+    font-size: 290%;
+}
+
+.closeMenu {
+    padding: 0 .60%;
+    transform: scale(.9);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.9);}
+}
+
+.menuImg {
+    top: 7%;
+    right: 11%;
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg);right: 35%;}
+    100%{transform: rotate(15deg);right: 11%;}
+}
+
+.settingsModalBlockContent {
+    width: 30%;
+    left: 35%;
+    top: 26%;
+}
+
+.closeSettings {
+    right: 36%;
+    top: 25%;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.mySlides img {
+    height: 37vh;
+    width: 33%;
+    padding: 45px 45px;
+    transform: scale(1.8);
+    margin-top: 14%;
+}
+
+.slideImg:hover {
+    transform: scale(1.6);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 8.5%;
+}
+
+.hackerName{
+    padding-bottom: 3%;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(1.8);}
+  100%{opacity: 1;transform: translateY(0%) scale(1.8);}
+}
+
+.slideImg:hover{
+    transform: scale(1.7);
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 18px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 18px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 18px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 18px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 18px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 18px;
+}
+
+.hackerName{
+    font-size: 39px;
+}
+
+.next {
+    right: 20%;
+    transform: scale(.9);
+}
+
+.prev{
+    left: 20%;
+    transform: scale(.9);
+}
+
+.white-hat{
+    transform: scale(.94);
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.7);
+}
+
+.moreText{
+    margin-top: 11%;
+}
+
+.menuLi{
+    font-size: 450%;
+}
+
+.menuLi3{
+    font-size: 300%;
+}
+
+}
+@media only screen and (min-width:1100px) and (max-width: 1200px){
+    .menuLi{
+    font-size: 430%;
+}
+
+.menuLi3{
+    font-size: 280%;
+}
+
+.leftIncon{
+    margin-left: -5%;
+}
+
+.closeMenu {
+    padding: 0 .75%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 7%;
+    right: 11%;
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg);right: 35%;}
+    100%{transform: rotate(15deg);right: 11%;}
+}
+
+.settingsModalBlockContent {
+    width: 35%;
+    top: 25%;
+    left: 32.5%;
+}
+
+.closeSettings {
+    right: 33.5%;
+    top: 24%;
+}
+
+.ulmenu {
+    left: 12%;
+}
+
+.mySlides img {
+    height: 35vh;
+    width: 33%;
+    padding: 45px 45px;
+    transform: scale(1.85);
+    margin-top: 15%;
+}
+
+.slideImg:hover {
+    transform: scale(1.65);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 8.5%;
+}
+
+.hackerName{
+    padding-bottom: 3%;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(1.85);}
+  100%{opacity: 1;transform: translateY(0%) scale(1.85);}
+}
+
+.slideImg:hover {
+    transform: scale(1.7);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 18px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 18px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 18px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 18px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 18px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 18px;
+}
+
+.moreText{
+    margin-top: 13%;
+    font-size: 25px;
+}
+
+.hackerName{
+    font-size: 39px;
+}
+
+.next {
+    right: 20%;
+    transform: scale(.9);
+}
+
+.prev{
+    left: 20%;
+    transform: scale(.9);
+}
+
+.white-hat{
+    transform: scale(.94);
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.7);
+}
+
+}
+@media only screen and (min-width:1000px) and (max-width: 1100px){
+
+.menuLi{
+    font-size: 400%;
+}
+
+.menuLi3{
+    font-size: 270%;
+}
+
+.leftIncon{
+    margin-left: -5%;
+}
+
+.closeMenu {
+    padding: 0 .75%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 7%;
+    right: 8%;
+    transform: scale(.9) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg) scale(.9);right: 35%;}
+    100%{transform: rotate(15deg) scale(.9);right: 8%;}
+}
+
+.settingsModalBlockContent {
+    width: 35%;
+    top: 23%;
+    left: 33%;
+}
+
+.closeSettings {
+    right: 33.5%;
+    top: 22%;
+    font-size: 52px;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.settings_end_menu {
+    transform: scale(.85);
+}
+
+.mySlides img {
+    height: 32vh;
+    width: 33%;
+    padding: 40px 40px;
+    transform: scale(1.9);
+    margin-top: 15%;
+}
+
+.slideImg:hover {
+    transform: scale(1.7);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 9%;
+}
+
+.hackerName{
+    padding-bottom: 3%;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(1.9);}
+  100%{opacity: 1;transform: translateY(0%) scale(1.9);}
+}
+
+.slideImg:hover {
+    transform: scale(1.8);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 18px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 18px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 18px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 18px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 18px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 18px;
+}
+
+.moreText{
+    margin-top: 13%;
+    font-size: 25px;
+}
+
+.hackerName{
+    font-size: 39px;
+}
+
+.next {
+    right: 20%;
+    transform: scale(.9);
+}
+
+.prev{
+    left: 20%;
+    transform: scale(.9);
+}
+
+.white-hat{
+    transform: scale(.85);
+    right: 4%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.7);
+}
+
+}
+@media only screen and (min-width:900px) and (max-width: 1000px){
+.menuLi{
+    font-size: 380%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 260%;
+}
+
+.leftIncon{
+    margin-left: -5%;
+}
+
+.settings_end_menu{
+    transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 .85%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 5%;
+    transform: scale(.8) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg) scale(.8);right: 35%;}
+    100%{transform: rotate(15deg) scale(.8);right: 5%;}
+}
+
+.settingsModalBlockContent {
+    width: 40%;
+    top: 25%;
+    left: 30%;
+}
+
+.closeSettings {
+    right: 31%;
+    top: 24%;
+    font-size: 51px;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.settings_end_menu {
+    transform: scale(.85);
+}
+
+.mySlides img {
+    height: 30vh;
+    width: 33%;
+    padding: 40px 35px;
+    transform: scale(2);
+    margin-top: 19%;
+}
+
+.slideImg:hover {
+    transform: scale(1.8);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 10%;
+}
+
+.hackerName{
+    padding-bottom: 3%;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(2);}
+  100%{opacity: 1;transform: translateY(0%) scale(2);}
+}
+
+.slideImg:hover {
+    transform: scale(1.9);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 17px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 15px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 17px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 15px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 17px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 15px;
+}
+
+.moreText{
+    margin-top: 14%;
+    font-size: 25px;
+}
+
+.hackerName{
+    font-size: 39px;
+}
+
+.next {
+    right: 17%;
+    transform: scale(.9);
+}
+
+.prev{
+    left: 17%;
+    transform: scale(.9);
+}
+
+.white-hat{
+    transform: scale(.85);
+    right: 4%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.7);
+}
+
+
+}
+@media only screen and (min-width:800px) and (max-width: 900px){
+.menuLi{
+    font-size: 370%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 250%;
+}
+
+.leftIncon{
+    margin-left: -5%;
+}
+
+.settings_end_menu{
+    transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 .85%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg) scale(.75);right: 35%;}
+    100%{transform: rotate(15deg) scale(.75);right: 0%;}
+}
+
+.settingsModalBlockContent {
+    width: 45%;
+    top: 25%;
+    left: 27.5%;
+    transform: scale(.9);
+}
+
+.closeSettings {
+    right: 31%;
+    top: 27%;
+    font-size: 49px;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.settings_end_menu {
+    transform: scale(.85);
+}
+
+.mySlides img {
+    height: 27vh;
+    width: 33%;
+    padding: 40px 35px;
+    transform: scale(2);
+    margin-top: 18%;
+}
+
+.slideImg:hover {
+    transform: scale(1.8);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 10%;
+}
+
+.hackerName{
+    padding-bottom: 3%;
+}
+
+.slideshow-container{
+    margin-top: 15%;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(2);}
+  100%{opacity: 1;transform: translateY(0%) scale(2);}
+}
+
+.slideImg:hover {
+    transform: scale(1.9);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 18px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 16px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 18px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 16px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 18px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 16px;
+}
+
+.moreText{
+    margin-top: 15%;
+    font-size: 23px;
+}
+
+.hackerName{
+    font-size: 33px;
+    margin-top: -7%;
+}
+
+.next {
+    right: 20%;
+    transform: scale(.9);
+}
+
+.prev{
+    left: 20%;
+    transform: scale(.9);
+}
+
+.white-hat{
+    transform: scale(.85);
+    right: 4%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.7);
+}
+
+}
+
+@media only screen and (min-width:767px) and (max-width: 800px){
+.menuLi{
+    font-size: 370%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 240%;
+}
+
+.leftIncon{
+    margin-left: -5%;
+}
+
+.closeMenu {
+    padding: 0 .95%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.ulmenu {
+    top: 20%;
+    left: 13%;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.settingsModalBlockContent {
+    width: 45%;
+    top: 25%;
+    left: 27.5%;
+    transform: scale(.9);
+}
+
+.closeSettings {
+    right: 31%;
+    top: 27%;
+    font-size: 49px;
+}
+
+.settings_end_menu {
+    transform: scale(.8);
+}
+
+.mySlides img {
+    height: 26vh;
+    width: 32%;
+    padding: 35px 30px;
+    transform: scale(2.1);
+    margin-top: 20%;
+}
+
+.slideImg:hover {
+    transform: scale(1.9);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 10%;
+}
+
+.hackerName{
+    padding-bottom: 3%;
+}
+
+.slideshow-container{
+    margin-top: 15%;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(2.1);}
+  100%{opacity: 1;transform: translateY(0%) scale(2.1);}
+}
+
+.slideImg:hover {
+    transform: scale(1.9);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 17px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 14.5px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 17px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 14.5px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 17px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 14.5px;
+}
+
+.moreText{
+    margin-top: 17%;
+    font-size: 22px;
+}
+
+.hackerName{
+    font-size: 30px;
+    margin-top: 11%;
+}
+
+.next {
+    right: 17%;
+    transform: scale(.9);
+}
+
+.prev{
+    left: 17%;
+    transform: scale(.9);
+}
+
+.white-hat{
+    transform: scale(.75);
+    right: 2%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.65);
+}
+
+}
+@media only screen and (min-width:700px) and (max-width: 767px){
+    .menuLi{
+    font-size: 300%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 190%;
+}
+
+.leftIncon{
+    margin-left: -8%;
+}
+
+.settings_end_menu{
+    transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 1.2%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.settingsModalBlockContent {
+    background: linear-gradient(-135deg, transparent 50px, #111 0);
+}
+
+.ulmenu {
+    top: 15%;
+    left: 13%;
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.settings_end_menu {
+    transform: scale(.85);
+}
+
+.mySlides img {
+    height: 25vh;
+    width: 33%;
+    padding: 30px 25px;
+    transform: scale(2.2);
+    margin-top: 22%;
+}
+
+.slideImg:hover {
+    transform: scale(2);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 10%;
+}
+
+.hackerName{
+    padding-bottom: 3%;
+}
+
+.slideshow-container{
+    margin-top: 15%;
+}
+
+.slideImg1 {
+    border: 2px solid #009800;
+    box-shadow: 0px 0px 20px #009800;
+}
+
+.slideImg2 {
+    border: 2px solid #2B75ED;
+    box-shadow: 0px 0px 20px #2B75ED;
+}
+
+.slideImg3 {
+    border: 2px solid #E92929;
+    box-shadow: 0px 0px 20px #E92929;
+}
+
+.slideImg4 {
+    border: 2px solid #C7B249;
+    box-shadow: 0px 0px 20px #C7B249;
+}
+
+.slideImg5 {
+    border: 2px solid #DC36F4;
+    box-shadow: 0px 0px 20px #DC36F4;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(2.2);}
+  100%{opacity: 1;transform: translateY(0%) scale(2.2);}
+}
+
+.slideImg:hover {
+    transform: scale(1.9);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 17px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 14.5px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 17px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 14.5px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 17px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 14.5px;
+}
+
+.moreText{
+    margin-top: 19%;
+    font-size: 22px;
+}
+
+.hackerName{
+    font-size: 30px;
+    margin-top: 5%;
+}
+
+.next {
+    right: 14%;
+    transform: scale(.8);
+}
+
+.prev{
+    left: 14%;
+    transform: scale(.8);
+}
+
+.white-hat{
+    transform: scale(.75);
+    right: 2%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.65);
+}
+}
+
+@media only screen and (min-width:600px) and (max-width: 700px){
+    .menuLi{
+    font-size: 300%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 190%;
+}
+
+.leftIncon{
+    margin-left: -8%;
+}
+
+.settings_end_menu{
+    transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 1.2%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.settingsModalBlockContent {
+    background: linear-gradient(-135deg, transparent 50px, #111 0);
+}
+
+.ulmenu {
+    top: 15%;
+    left: 13%;
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.settings_end_menu {
+    transform: scale(.85);
+}
+
+.mySlides img {
+    height: 25vh;
+    width: 35%;
+    padding: 30px 25px;
+    transform: scale(2.2);
+    margin-top: 22%;
+}
+
+.slideImg:hover {
+    transform: scale(2);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 12%;
+}
+
+.hackerName{
+    padding-bottom: 5%;
+}
+
+.slideshow-container{
+    margin-top: 15%;
+}
+
+.slideImg1 {
+    border: 2px solid #009800;
+    box-shadow: 0px 0px 20px #009800;
+}
+
+.slideImg2 {
+    border: 2px solid #2B75ED;
+    box-shadow: 0px 0px 20px #2B75ED;
+}
+
+.slideImg3 {
+    border: 2px solid #E92929;
+    box-shadow: 0px 0px 20px #E92929;
+}
+
+.slideImg4 {
+    border: 2px solid #C7B249;
+    box-shadow: 0px 0px 20px #C7B249;
+}
+
+.slideImg5 {
+    border: 2px solid #DC36F4;
+    box-shadow: 0px 0px 20px #DC36F4;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(2.2);}
+  100%{opacity: 1;transform: translateY(0%) scale(2.2);}
+}
+
+.slideImg:hover {
+    transform: scale(1.9);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 16px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 13.5px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 16px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 13.5px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 16px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 13.5px;
+}
+
+.moreText{
+    margin-top: 19%;
+    font-size: 22px;
+}
+
+.hackerName{
+    font-size: 25px;
+    margin-top: 24%;
+}
+
+.next {
+    right: 12%;
+    transform: scale(.8);
+}
+
+.prev{
+    left: 12%;
+    transform: scale(.8);
+}
+
+.white-hat{
+    transform: scale(.75);
+    right: 2%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.65);
+}
+
+}
+@media only screen and (min-width:500px) and (max-width: 600px){
+.menuLi{
+    font-size: 320%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 220%;
+}
+
+.leftIncon{
+    margin-left: -13%;
+}
+
+.settings_end_menu{
+    transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 1.2%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.BlackMenuBlock{
+    width: 140%;
+    animation: menuBlockAnim 1.5s linear;
+    transform: translateX(-13%) rotate(-40deg);
+}
+
+@keyframes menuBlockAnim{
+  0%{transform: translateX(-100%) rotate(0deg);}
+  50%{transform: translateX(0%) rotate(0deg);}
+  100%{transform: translateX(-13%) rotate(-40deg);}
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.settingsModalBlockContent {
+    background: linear-gradient(-135deg, transparent 40px, #111 0);
+}
+.closeSettings{
+    top: 18%;
+    font-size: 40px;
+}
+
+.ulmenu {
+    top: 15%;
+    left: 26%;
+}
+
+.mySlides img {
+    height: 22vh;
+    width: 36%;
+    padding: 25px 20px;
+    transform: scale(2.3);
+    margin-top: 22%;
+}
+
+.slideImg:hover {
+    transform: scale(2.1);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 22%;
+}
+
+.hackerName{
+    padding-bottom: 9%;
+}
+
+.slideshow-container{
+    margin-top: 15%;
+}
+
+.slideImg1 {
+    border: 2px solid #009800;
+    box-shadow: 0px 0px 20px #009800;
+}
+
+.slideImg2 {
+    border: 2px solid #2B75ED;
+    box-shadow: 0px 0px 20px #2B75ED;
+}
+
+.slideImg3 {
+    border: 2px solid #E92929;
+    box-shadow: 0px 0px 20px #E92929;
+}
+
+.slideImg4 {
+    border: 2px solid #C7B249;
+    box-shadow: 0px 0px 20px #C7B249;
+}
+
+.slideImg5 {
+    border: 2px solid #DC36F4;
+    box-shadow: 0px 0px 20px #DC36F4;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(2.3);}
+  100%{opacity: 1;transform: translateY(0%) scale(2.3);}
+}
+
+.slideImg:hover {
+    transform: scale(2.2);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 16px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 13px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 15px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 13px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 15px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 13px;
+}
+
+.moreText{
+    margin-top: 20%;
+    font-size: 22px;
+}
+
+.hackerName{
+    font-size: 25px;
+    font-weight: 100;
+    margin-top: 37%;
+}
+
+.next {
+    right: 9%;
+    transform: scale(.8);
+}
+
+.prev{
+    left: 9%;
+    transform: scale(.8);
+}
+
+.white-hat{
+    transform: scale(.75);
+    right: 2%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.65);
+}
+
+.fon{
+    display: none !important;
+}
+
+}
+@media only screen and (min-width:450px) and (max-width: 500px){
+
+.menuLi{
+    font-size: 300%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 200%;
+}
+
+.leftIncon{
+    margin-left: -14.5%;
+}
+
+.settings_end_menu{
+    transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 1.5%;
+    transform: scale(.8);
+    top: 0%;
+    right: 0%;
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.BlackMenuBlock{
+    width: 170%;
+    animation: menuBlockAnim 1.5s ease-in;
+    transform: translateX(-18%) rotate(-40deg);
+}
+
+@keyframes menuBlockAnim{
+  0%{transform: translateX(-100%) rotate(0deg);}
+  50%{transform: translateX(0%) rotate(0deg);}
+  100%{transform: translateX(-26%) rotate(-40deg);}
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.settingsModalBlockContent {
+    background: linear-gradient(-135deg, transparent 35px, #111 0);
+}
+
+.closeSettings {
+    right: 36%;
+    font-size: 40px;
+    top: 18%;
+}
+
+.ulmenu {
+    top: 15%;
+    left: 20%;
+}
+
+.mySlides img {
+    height: 21vh;
+    width: 36%;
+    padding: 20px 15px;
+    transform: scale(2.5);
+    margin-top: 27%;
+}
+
+.slideImg:hover {
+    transform: scale(2.3);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 28%;
+}
+
+.hackerName{
+    padding-bottom: 9%;
+}
+
+.slideshow-container{
+    margin-top: -8%;
+}
+
+.slideImg1 {
+    border: 2px solid #009800;
+    box-shadow: 0px 0px 20px #009800;
+}
+
+.slideImg2 {
+    border: 2px solid #2B75ED;
+    box-shadow: 0px 0px 20px #2B75ED;
+}
+
+.slideImg3 {
+    border: 2px solid #E92929;
+    box-shadow: 0px 0px 20px #E92929;
+}
+
+.slideImg4 {
+    border: 2px solid #C7B249;
+    box-shadow: 0px 0px 20px #C7B249;
+}
+
+.slideImg5 {
+    border: 2px solid #DC36F4;
+    box-shadow: 0px 0px 20px #DC36F4;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(2.5);}
+  100%{opacity: 1;transform: translateY(0%) scale(2.5);}
+}
+
+.slideImg:hover {
+    transform: scale(2.4);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 14px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 12px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 14px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 12px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 14px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 12px;
+}
+
+.moreText{
+    font-size: 22px;
+}
+
+.hackerName{
+    font-size: 22px;
+    margin-top: 52%;
+    font-weight: 100;
+}
+
+.next {
+    right: 4%;
+    transform: scale(.8);
+}
+
+.prev{
+    left: 4%;
+    transform: scale(.8);
+}
+
+.white-hat{
+    transform: scale(.7);
+    right: 2%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.65);
+}
+
+.slideImg1{
+  border: 2px solid #009800;box-shadow: 0px 0px 20px #009800;
+}
+
+.slideImg2{
+  border: 2px solid #2B75ED;box-shadow: 0px 0px 20px #2B75ED;
+}
+
+.slideImg3{
+  border: 2px solid #E92929;box-shadow: 0px 0px 20px #E92929;
+}
+
+.slideImg4{
+  border: 2px solid #C7B249;box-shadow: 0px 0px 20px #C7B249;
+}
+
+.slideImg5{
+  border: 2px solid #DC36F4;box-shadow: 0px 0px 20px #DC36F4;
+}
+
+.fon{
+    display: none !important;
+}
+
+}
+
+@media only screen and (min-width:400px) and (max-width: 450px){
+
+.menuLi{
+    font-size: 300%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 200%;
+}
+
+.leftIncon{
+    margin-left: -14.5%;
+}
+
+.settings_end_menu{
+    transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 1.5%;
+    transform: scale(.8);
+    top: 0%;
+    right: 0%;
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.BlackMenuBlock{
+    width: 170%;
+    animation: menuBlockAnim 1.5s ease-in;
+    transform: translateX(-10%) rotate(-40deg);
+}
+
+@keyframes menuBlockAnim{
+  0%{transform: translateX(-100%) rotate(0deg);}
+  50%{transform: translateX(0%) rotate(0deg);}
+  100%{transform: translateX(-26%) rotate(-40deg);}
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.settingsModalBlockContent {
+    background: linear-gradient(-135deg, transparent 35px, #111 0);
+}
+
+.closeSettings {
+    right: 36%;
+    font-size: 40px;
+    top: 18%;
+}
+
+.ulmenu {
+    top: 15%;
+    left: 20%;
+}
+
+.mySlides img {
+    height: 19vh;
+    width: 36%;
+    padding: 20px 15px;
+    transform: scale(2.5);
+    margin-top: 27%;
+}
+
+.slideImg:hover {
+    transform: scale(2.3);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 28%;
+}
+
+.hackerName{
+    padding-bottom: 12%;
+}
+
+.slideshow-container{
+    margin-top: -8%;
+}
+
+.slideImg1 {
+    border: 2px solid #009800;
+    box-shadow: 0px 0px 20px #009800;
+}
+
+.slideImg2 {
+    border: 2px solid #2B75ED;
+    box-shadow: 0px 0px 20px #2B75ED;
+}
+
+.slideImg3 {
+    border: 2px solid #E92929;
+    box-shadow: 0px 0px 20px #E92929;
+}
+
+.slideImg4 {
+    border: 2px solid #C7B249;
+    box-shadow: 0px 0px 20px #C7B249;
+}
+
+.slideImg5 {
+    border: 2px solid #DC36F4;
+    box-shadow: 0px 0px 20px #DC36F4;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(2.5);}
+  100%{opacity: 1;transform: translateY(0%) scale(2.5);}
+}
+
+.slideImg:hover {
+    transform: scale(2.4);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 12px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 10.5px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 12px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 10.5px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 12px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 10.5px;
+}
+
+.moreText{
+    font-size: 15px;
+}
+
+.hackerName{
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 62%;
+}
+
+.next {
+    right: 4%;
+    transform: scale(.7);
+}
+
+.prev{
+    left: 4%;
+    transform: scale(.7);
+}
+
+.white-hat{
+    transform: scale(.7);
+    right: 2%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.65);
+}
+
+.slideImg1{
+  border: 2px solid #009800;box-shadow: 0px 0px 20px #009800;
+}
+
+.slideImg2{
+  border: 2px solid #2B75ED;box-shadow: 0px 0px 20px #2B75ED;
+}
+
+.slideImg3{
+  border: 2px solid #E92929;box-shadow: 0px 0px 20px #E92929;
+}
+
+.slideImg4{
+  border: 2px solid #C7B249;box-shadow: 0px 0px 20px #C7B249;
+}
+
+.slideImg5{
+  border: 2px solid #DC36F4;box-shadow: 0px 0px 20px #DC36F4;
+}
+
+.fon{
+    display: none !important;
+}
+
+}
+
+@media only screen and (min-width:350px) and (max-width: 400px){
+.menuLi{
+    font-size: 270%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 150%;
+}
+
+.leftIncon{
+    margin-left: -14.5%;
+}
+
+.closeMenu {
+    padding: 0 2.1%;
+    transform: scale(.8);
+    top: 0%;
+    right: 0%;
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.BlackMenuBlock{
+    width: 195%;
+    animation: menuBlockAnim 1.5s ease-in;
+    transform: translateX(-20%) rotate(-40deg);
+}
+
+@keyframes menuBlockAnim{
+  0%{transform: translateX(-100%) rotate(0deg);}
+  50%{transform: translateX(0%) rotate(0deg);}
+  100%{transform: translateX(-20%) rotate(-40deg);}
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.settingsModalBlockContent {
+    width: 45%;
+    left: 28%;
+    background: linear-gradient(-135deg, transparent 40px, #111 0);
+}
+
+.closeSettings {
+    right: 28%;
+    font-size: 40px;
+    top: 18%;
+}
+
+.ulmenu {
+    top: 25%;
+    left: 20%;
+}
+
+.settings_end_menu{
+    transform: scale(.76);
+    right: -6%;
+    top: 1.4%;
+}
+
+.mySlides img {
+    height: 18vh;
+    width: 36%;
+    padding: 15px 10px;
+    transform: scale(2.6);
+    margin-top: 27%;
+}
+
+.slideImg:hover {
+    transform: scale(2.4);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 30%;
+    font-size: 13px;
+}
+
+.hackerName{
+    padding-bottom: 14%;
+}
+
+.slideshow-container{
+    margin-top: -8%;
+}
+
+.slideImg1 {
+    border: 2px solid #009800;
+    box-shadow: 0px 0px 20px #009800;
+}
+
+.slideImg2 {
+    border: 2px solid #2B75ED;
+    box-shadow: 0px 0px 20px #2B75ED;
+}
+
+.slideImg3 {
+    border: 2px solid #E92929;
+    box-shadow: 0px 0px 20px #E92929;
+}
+
+.slideImg4 {
+    border: 2px solid #C7B249;
+    box-shadow: 0px 0px 20px #C7B249;
+}
+
+.slideImg5 {
+    border: 2px solid #DC36F4;
+    box-shadow: 0px 0px 20px #DC36F4;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(2.6);}
+  100%{opacity: 1;transform: translateY(0%) scale(2.6);}
+}
+
+.slideImg:hover {
+    transform: scale(2.4);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 11px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 10px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 11px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 10px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 11px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 10px;
+}
+
+.hackerName{
+    font-size: 16px;
+    margin-top: 75%;
+    font-weight: 100;
+}
+
+.next {
+    right: 1%;
+    transform: scale(.7);
+}
+
+.prev{
+    left: 1%;
+    transform: scale(.7);
+}
+
+.white-hat{
+    transform: scale(.6);
+    right: -5%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.55);
+}
+
+.slideImg1{
+  border: 2px solid #009800;box-shadow: 0px 0px 20px #009800;
+}
+
+.slideImg2{
+  border: 2px solid #2B75ED;box-shadow: 0px 0px 20px #2B75ED;
+}
+
+.slideImg3{
+  border: 2px solid #E92929;box-shadow: 0px 0px 20px #E92929;
+}
+
+.slideImg4{
+  border: 2px solid #C7B249;box-shadow: 0px 0px 20px #C7B249;
+}
+
+.slideImg5{
+  border: 2px solid #DC36F4;box-shadow: 0px 0px 20px #DC36F4;
+}
+
+.settings_end_menu{
+    transform: scale(.76);
+    right: -6%;
+    top: 1.4%;
+}
+
+.menu {
+    top: -10%;
+    left: 0px;
+}
+
+.settings{
+    margin-top: 2px;
+}
+
+.fon{
+    display: none !important;
+}
+
+}
+
+@media only screen and (min-width:0px) and (max-width: 350px){
+.menuLi{
+    font-size: 270%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 150%;
+}
+
+.leftIncon{
+    margin-left: -14.5%;
+}
+
+.closeMenu {
+    padding: 0 2.1%;
+    transform: scale(.8);
+    top: 0%;
+    right: 0%;
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.BlackMenuBlock{
+    width: 195%;
+    animation: menuBlockAnim 1.5s ease-in;
+    transform: translateX(-20%) rotate(-40deg);
+}
+
+@keyframes menuBlockAnim{
+  0%{transform: translateX(-100%) rotate(0deg);}
+  50%{transform: translateX(0%) rotate(0deg);}
+  100%{transform: translateX(-20%) rotate(-40deg);}
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.settingsModalBlockContent {
+    width: 45%;
+    left: 28%;
+    background: linear-gradient(-135deg, transparent 40px, #111 0);
+}
+
+.closeSettings {
+    right: 28%;
+    font-size: 40px;
+    top: 18%;
+}
+
+.ulmenu {
+    top: 25%;
+    left: 20%;
+}
+
+.settings_end_menu{
+    transform: scale(.76);
+    right: -6%;
+    top: 1.4%;
+}
+
+.mySlides img {
+    height: 16.5vh;
+    width: 36%;
+    padding: 15px 10px;
+    transform: scale(2.6);
+    margin-top: 27%;
+}
+
+.slideImg:hover {
+    transform: scale(2.4);
+    transition: .5s;
+}
+
+.moreText{
+    margin-top: 32%;
+    font-size: 10px;
+}
+
+.hackerName{
+    padding-bottom: 14%;
+}
+
+.slideshow-container{
+    margin-top: -2%;
+}
+
+.slideImg1 {
+    border: 1px solid #009800;
+    box-shadow: 0px 0px 20px #009800;
+}
+
+.slideImg2 {
+    border: 1px solid #2B75ED;
+    box-shadow: 0px 0px 20px #2B75ED;
+}
+
+.slideImg3 {
+    border: 1px solid #E92929;
+    box-shadow: 0px 0px 20px #E92929;
+}
+
+.slideImg4 {
+    border: 1px solid #C7B249;
+    box-shadow: 0px 0px 20px #C7B249;
+}
+
+.slideImg5 {
+    border: 1px solid #DC36F4;
+    box-shadow: 0px 0px 20px #DC36F4;
+}
+
+@keyframes slideImgAnim{
+  0%{opacity: 0;transform: translateY(-20%) scale(2.6);}
+  100%{opacity: 1;transform: translateY(0%) scale(2.6);}
+}
+
+.slideImg:hover {
+    transform: scale(2.4);
+    transition: .5s;
+}
+
+.scrollUa .moreText1, .scrollUa .moreText2, .scrollUa .moreText5{
+    font-size: 10px;
+}
+
+.scrollUa .moreText3, .scrollUa .moreText4 {
+    font-size: 8.4px;
+}
+
+.scrollRu .moreText1, .scrollRu .moreText2, .scrollRu .moreText5{
+    font-size: 10px;
+}
+
+.scrollRu .moreText3, .scrollRu .moreText4 {
+    font-size: 8px;
+}
+
+.scrollEn .moreText1, .scrollEn .moreText2, .scrollEn .moreText5{
+    font-size: 10px;
+}
+
+.scrollEn .moreText3, .scrollEn .moreText4 {
+    font-size: 9px;
+}
+
+.hackerName{
+    font-size: 16px;
+    margin-top: 73%;
+    font-weight: 100;
+}
+
+.next {
+    right: 1%;
+    transform: scale(.7);
+}
+
+.prev{
+    left: 1%;
+    transform: scale(.7);
+}
+
+.white-hat{
+    transform: scale(.6);
+    right: -5%;
+}
+
+.prev:hover, .next:hover {
+  transform: scale(.55);
+}
+
+.settings_end_menu{
+    transform: scale(.76);
+    right: -6%;
+    top: 1.4%;
+}
+
+.menu {
+    top: -10%;
+    left: 0px;
+}
+
+.settings{
+    margin-top: 2px;
+}
+
+.fon{
+    display: none !important;
+}
+}
+
+@media only screen and (min-width:1300px) and (max-width: 1400px) and (min-height: 640px) and (max-height: 670px){
+.hackerName{
+        margin-bottom: 0;
+        margin-top: -15.5%;
+}
+
+.mySlides img:hover{
+    transform: scale(1.55);
+}
+}
+
+@media only screen and (min-width:374px) and (max-width: 415px) and (min-height: 800px) and (max-height: 850px){
+    .mySlides img {
+    height: 13vh;
+}
+
+.slideshow-container {
+    margin-top: 55%;
+}
+} 
+
+@media only screen and (min-width:400px) and (max-width: 500px){
+.BlackMenuBlock {
+    width: 220%;
+    animation: menuBlockAnim 1.5s ease-in;
+    transform: translateX(-38%) rotate(-45deg);
+}
+
+@keyframes menuBlockAnim{
+  0%{transform: translateX(-100%) rotate(0deg);}
+  50%{transform: translateX(0%) rotate(0deg);}
+  100%{transform: translateX(-38%) rotate(-45deg);}
+}
+}
+
+@media only screen and (min-width:0px) and (max-width: 350px){
+.closeMenu{
+    padding: .1% 2.4%;
+    transform: scale(.9);
+}
+}
+
+/*2k*/
+@media only screen and (min-width:2000px) and (max-width: 3000px){
+
+@-webkit-keyframes effect{
+  0%{
+    clip:rect(55px,99999px,156px,0);
+  }
+
+  5%{
+    clip:rect(47px,99999px,130px,0);
+  }
+
+  10%{
+    clip:rect(33px,99999px,136px,0);
+  }
+
+  15%{
+    clip:rect(35px,99999px,19px,0);
+  }
+
+  20%{
+    clip:rect(63px,99999px,159px,0);
+  }
+
+  25%{
+    clip:rect(96px,99999px,198px,0);
+  }
+
+  30%{
+    clip:rect(48px,99999px,177px,0);
+  }
+
+  35%{
+    clip:rect(50px,99999px,134px,0);
+  }
+
+  40%{
+    clip:rect(60px,99999px,172px,0);
+  }
+
+  45%{
+    clip:rect(10px,99999px,181px,0);
+  }
+
+  50%{
+    clip:rect(2px,99999px,160px,0);
+  }
+
+  55%{
+    clip:rect(23px,99999px,189px,0);
+  }
+
+  60%{
+    clip:rect(76px,99999px,191px,0);
+  }
+
+  65%{
+    clip:rect(62px,99999px,130px,0);
+  }
+
+  70%{
+    clip:rect(60px,99999px,173px,0);
+  }
+
+  75%{
+    clip:rect(60px,99999px,187px,0);
+  }
+
+  80%{
+    clip:rect(2px,99999px,114px,0);
+  }
+
+  85%{
+    clip:rect(28px,99999px,187px,0);
+  }
+  90%{
+    clip:rect(73px,99999px,150px,0);
+  }
+
+  95%{
+    clip:rect(79px,99999px,170px,0);
+  }
+
+  100%{
+        clip:rect(17px,99999px,179px,0);
+  }
+}
+
+/*setings and menu*/
+.settings_end_menu{
+    transform: scale(1.4);
+}
+
+.settingsModalBlockContent{
+    transform: scale(1.4);
+    top: 26%;
+}
+
+.closeSettings{
+    top: 15%;
+    right: 31.5%;
+    font-size: 85px;
+}
+
+.menuImg{
+    right: 12%;
+    top: 12%;
+    width: 45%;
+}
+
+.ulmenu{
+    top: 22%;
+    font-size: 20px;
+}
+
+.closeMenu{
+    font-size: 35px;
+    right: .5%;
+}
+
+.hackerName{
+    font-size: 70px;
+}
+
+.mySlides img{
+    height: 40vh;
+}
+
+.slideshow-container {
+    margin-top: 15%;
+}
+
+.prev, .next {
+    position: absolute;
+    top: 52%;
+    font-size: 45px;
+}
+
+.white-hat{
+    font-size: 24px;
+}
+}
+
+/*4k*/
+@media only screen and (min-width:3840px){
+
+@-webkit-keyframes effect{
+  0%{
+    clip:rect(55px,99999px,156px,0);
+  }
+
+  5%{
+    clip:rect(47px,99999px,130px,0);
+  }
+
+  10%{
+    clip:rect(33px,99999px,136px,0);
+  }
+
+  15%{
+    clip:rect(35px,99999px,119px,0);
+  }
+
+  20%{
+    clip:rect(63px,99999px,159px,0);
+  }
+
+  25%{
+    clip:rect(96px,99999px,198px,0);
+  }
+
+  30%{
+    clip:rect(48px,99999px,177px,0);
+  }
+
+  35%{
+    clip:rect(50px,99999px,134px,0);
+  }
+
+  40%{
+    clip:rect(60px,99999px,172px,0);
+  }
+
+  45%{
+    clip:rect(10px,99999px,181px,0);
+  }
+
+  50%{
+    clip:rect(2px,99999px,160px,0);
+  }
+
+  55%{
+    clip:rect(23px,99999px,189px,0);
+  }
+
+  60%{
+    clip:rect(76px,99999px,191px,0);
+  }
+
+  65%{
+    clip:rect(62px,99999px,130px,0);
+  }
+
+  70%{
+    clip:rect(60px,99999px,173px,0);
+  }
+
+  75%{
+    clip:rect(60px,99999px,187px,0);
+  }
+
+  80%{
+    clip:rect(2px,99999px,114px,0);
+  }
+
+  85%{
+    clip:rect(28px,99999px,187px,0);
+  }
+  90%{
+    clip:rect(73px,99999px,150px,0);
+  }
+
+  95%{
+    clip:rect(79px,99999px,170px,0);
+  }
+
+  100%{
+    clip:rect(17px,99999px,179px,0);
+  }
+}
+
+/*setings and menu*/
+.settings_end_menu{
+   transform: scale(2);
+}
+.settingsContent{
+   font-size: 120px;
+}
+
+.toggle{
+    transform: scale(2.5);
+}
+
+.settingsModalBlockContent{
+    transform: scale(1.4);
+    top: 26%;
+}
+
+.flagsBlocks {
+    font-size: 22px;
+}
+
+.closeSettings{
+    top: 15%;
+    right: 31%;
+    font-size: 105px;
+}
+
+.menuImg{
+    right: 12%;
+    top: 12%;
+    width: 45%;
+}
+
+.ulmenu{
+    top: 22%;
+    font-size: 30px;
+}
+
+.closeMenu{
+    font-size: 45px;
+    right: .5%;
+    padding: 0 .40%;
+}
+
+.hackerName{
+    font-size: 100px;
+}
+
+.mySlides img{
+    height: 40vh;
+    padding: 80px 100px;
+}
+
+.slideshow-container {
+    margin-top: 15%;
+}
+
+.prev, .next {
+    position: absolute;
+    top: 52%;
+    font-size: 45px;
+}
+
+.white-hat{
+    font-size: 35px;
+}
+
+.moreText{
+    font-size: 40px;
+}
+
+.moreText3, .moreText4 {
+    font-size: 35px;
+}
+}
+
+@media only screen and (min-width:700px) and (max-width: 800px) and (min-height: 900px) and (max-height: 1300px){
+.settingsModalBlockContent {
+    top: 30%;
+    left: 27.5%;
+    transform: scale(1.2);
+}
+
+.closeSettings {
+    right: 24.9%;
+    top: 25%;
+    font-size: 59px;
+}
+
+.ulmenu {
+    top: 30%;
+    left: 12%;
+}
+
+.menuImg {
+    top: 30%;
+    transform: scale(.95) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg) scale(.95);right: 35%;}
+    100%{transform: rotate(15deg) scale(.95);right: 0%;}
+}
+
+.BlackMenuBlock{
+    transform: translateX(-45%) rotate(15deg);
+}
+
+@keyframes menuBlockAnim{
+0%{transform: translateX(-100%) rotate(0deg);}
+50%{transform: translateX(-45%) rotate(0deg);}
+100%{transform: translateX(-45%) rotate(15deg);}
+}
+
+.closeMenu{
+    transform: scale(1);
+}
+
+.settings_end_menu {
+    transform: scale(1);
+    top: 1%;
+    right: -2%;
+}
+
+.mySlides img {
+    height: 21vh;
+    width: 36%;
+    transform: scale(2);
+    margin-top: 27%;
+}
+
+.hackerName {
+    font-size: 32px;
+    margin-top: 63%;
+}
+
+.moreText {
+    margin-top: 21%;
+    font-size: 20px;
+}
+
+.white-hat {
+    transform: scale(1);
+    right: 3%;
+}
+}
+
+@media only screen and (min-width:1400px) and (max-width: 1500px){.settingsModalBlockContent{width: 30%;top: -4.5%;left: 70% !important;}}
+@media only screen and (min-width:1300px) and (max-width: 1400px){.settingsModalBlockContent{width: 30%;top: -4%;left: 70% !important;}}
+@media only screen and (min-width:1200px) and (max-width: 1300px){.settingsModalBlockContent{width: 30%;top: -4%;left: 69% !important;}}
+@media only screen and (min-width:1100px) and (max-width: 1200px){.settingsModalBlockContent{width: 35%;top: -4%;left: 65% !important;}}
+@media only screen and (min-width:1000px) and (max-width: 1100px){.settingsModalBlockContent{width: 35%;top: -6%;left: 66% !important;transform: scale(.6);}}
+@media only screen and (min-width:900px) and (max-width: 1000px){.settingsModalBlockContent{width: 40%;top: -5%;left: 60% !important;}}
+@media only screen and (min-width:767px) and (max-width: 900px){.settingsModalBlockContent {width: 45%;top: -7%;left: 58% !important;transform: scale(.5);}}
+
+
+@media only screen and (min-width:600px) and (max-width: 767px){.settingsModalBlockContent{width: 30%;top: -7%;left: 58% !important;transform: scale(.5);}.closeSettings{top: 17%;transform: scale(.8);}}
+
+@media only screen and (min-width:1400px) and (max-width: 1500px){.menuLi{font-size: 75%;}}
+@media only screen and (min-width:767px) and (max-width: 1000px){.menuLi2:hover:before, .menuLi2:hover:after{position: absolute;top: 0;left: 0;right: 0;overflow: hidden;background-color: #111;color: #FFF;margin-left: 0%;width: 125%;}}
+@media only screen and (min-width:1000px) and (max-width: 1300px){.menuLi2:hover:before, .menuLi2:hover:after{position: absolute;top: 0;left: 0;right: 0;overflow: hidden;background-color: #111;color: #FFF;margin-left: 0%;width: 130%;}}

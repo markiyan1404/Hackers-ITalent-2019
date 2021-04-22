@@ -1,0 +1,1470 @@
+@media only screen and (min-width:1500px) and (max-width: 1630px){
+	.menuLi{
+	font-size: 500%;
+}
+
+.menuLi3{
+    font-size: 320%;
+}
+
+.leftIncon{
+	margin-left: -5%;
+}
+
+.hats{
+	margin-left: 38%;
+}
+
+.buttons_hat{
+	margin-left: 33%;
+}
+
+.hats_text {
+    margin-top: 5%;
+    font-size: 55px;
+}
+
+}
+@media only screen and (min-width:1400px) and (max-width: 1500px){
+
+.menuLi{
+	font-size: 500%;
+}
+
+.menuLi3{
+    font-size: 310%;
+}
+
+.leftIncon{
+	margin-left: -5%;
+}
+
+.closeMenu {
+    padding: 0 .55%;
+}
+
+.hats{
+	margin-left: 38%;
+}
+
+.buttons_hat{
+	margin-left: 33%;
+}
+
+.hats_text {
+    margin-top: 5%;
+    font-size: 55px;
+}
+
+.closeSettings{
+    top: 24%;
+    right: 36%;
+}
+
+}
+@media only screen and (min-width:1300px) and (max-width: 1400px){
+
+.settings_end_menu{
+	transform: scale(.92);
+}
+
+.menuLi{
+	font-size: 460%;
+}
+
+.menuLi3{
+    font-size: 300%;
+}
+
+.leftIncon{
+	margin-left: -5%;
+}
+
+.closeMenu {
+    padding: 0 .60%;
+    transform: scale(.9);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.9);}
+}
+
+.closeSettings {
+    right: 36%; 
+    top: 16%;
+}
+
+.hats{
+	margin-left: 38%;
+}
+
+.buttons_hat{
+	margin-left: 35%;
+	font-size: 32px;
+}
+
+.hats_text {
+    margin-top: 5%;
+    font-size: 55px;
+}
+
+}
+@media only screen and (min-width:1200px) and (max-width: 1300px){
+.settings_end_menu{
+	transform: scale(.92);
+}
+
+.leftIncon{
+	margin-left: -5%;
+}
+
+.menuLi {
+    font-size: 430%;
+}
+
+.menuLi3{
+    font-size: 290%;
+}
+
+.closeMenu {
+    padding: 0 .60%;
+    transform: scale(.9);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.9);}
+}
+
+.menuImg {
+    top: 7%;
+    right: 11%;
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg);right: 35%;}
+    100%{transform: rotate(15deg);right: 11%;}
+}
+
+.closeSettings {
+    right: 36%;
+    top: 25%;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.hats_text {
+    font-size: 45px;
+}
+
+.buttons_hat{
+	margin-left: 34%;
+	font-size: 30px;
+}
+
+.hats {
+    margin-left: 35%;
+}
+
+.menuLi{
+    font-size: 450%;
+}
+
+.menuLi3{
+    font-size: 300%;
+}
+
+}
+@media only screen and (min-width:1100px) and (max-width: 1200px){
+	.menuLi{
+	font-size: 430%;
+}
+
+.menuLi3{
+    font-size: 280%;
+}
+
+.leftIncon{
+	margin-left: -5%;
+}
+
+.closeMenu {
+    padding: 0 .75%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 7%;
+    right: 11%;
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg);right: 35%;}
+    100%{transform: rotate(15deg);right: 11%;}
+}
+
+.closeSettings {
+    right: 33.5%;
+    top: 24%;
+}
+
+.ulmenu {
+    left: 12%;
+}
+
+.hats_text {
+    font-size: 45px;
+}
+
+.buttons_hat{
+	margin-left: 34%;
+	font-size: 30px;
+}
+
+.hats {
+    margin-left: 35%;
+}
+
+}
+@media only screen and (min-width:1000px) and (max-width: 1100px){
+
+.menuLi{
+	font-size: 400%;
+}
+
+.menuLi3{
+    font-size: 270%;
+}
+
+.leftIncon{
+	margin-left: -5%;
+}
+
+.closeMenu {
+    padding: 0 .75%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 7%;
+    right: 8%;
+    transform: scale(.9) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg) scale(.9);right: 35%;}
+    100%{transform: rotate(15deg) scale(.9);right: 8%;}
+}
+
+.closeSettings {
+    right: 33.5%;
+    top: 22%;
+    font-size: 52px;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.settings_end_menu {
+    transform: scale(.85);
+}
+
+.hats_text {
+    font-size: 40px;
+}
+
+.buttons_hat{
+	margin-left: 34%;
+	font-size: 30px;
+}
+
+.hats {
+    margin-left: 35%;
+}
+
+}
+@media only screen and (min-width:900px) and (max-width: 1000px){
+.menuLi{
+    font-size: 380%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 260%;
+}
+
+.leftIncon{
+	margin-left: -5%;
+}
+
+.settings_end_menu{
+	transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 .85%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 5%;
+    transform: scale(.8) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg) scale(.8);right: 35%;}
+    100%{transform: rotate(15deg) scale(.8);right: 5%;}
+}
+
+.closeSettings {
+    right: 31%;
+    top: 24%;
+    font-size: 51px;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.settings_end_menu {
+    transform: scale(.85);
+}
+
+.hats_text {
+    font-size: 35px;
+}
+
+.buttons_hat{
+    margin-left: 30%;
+	font-size: 30px;
+}
+
+.hats {
+    margin-left: 30%;
+    transform: scale(.85);
+}
+
+}
+@media only screen and (min-width:800px) and (max-width: 900px){
+.menuLi{
+    font-size: 370%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 250%;
+}
+
+.leftIncon{
+	margin-left: -5%;
+}
+
+.settings_end_menu{
+	transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 .85%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg) scale(.75);right: 35%;}
+    100%{transform: rotate(15deg) scale(.75);right: 0%;}
+}
+
+.closeSettings {
+    right: 31%;
+    top: 27%;
+    font-size: 49px;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.settings_end_menu {
+    transform: scale(.85);
+}
+
+.hats_text {
+    font-size: 32px;
+}
+
+.buttons_hat{
+    margin-left: 30%;
+    margin-top: 22%;
+	font-size: 30px;
+}
+
+.hats {
+    margin-left: 28%;
+    transform: scale(.85);
+}
+
+}
+
+@media only screen and (min-width:767px) and (max-width: 800px){
+.menuLi{
+    font-size: 370%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 240%;
+}
+
+.leftIncon{
+	margin-left: -5%;
+}
+
+.closeMenu {
+    padding: 0 .95%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.ulmenu {
+    top: 20%;
+    left: 13%;
+}
+
+.iconContent {
+    margin-top: 30%;
+    margin-left: -5%;
+}
+
+.closeSettings {
+    right: 31%;
+    top: 27%;
+    font-size: 49px;
+}
+
+.more_big_p{
+    font-size: 14px;
+    margin-top: 1%;
+    padding-top: 10px;
+}
+
+.settings_end_menu {
+    transform: scale(.8);
+}
+
+.hats_text {
+    font-size: 27px;
+}
+
+.buttons_hat{
+    margin-left: 30%;
+    margin-top: 16%;
+	font-size: 23px;
+}
+
+.hats {
+    margin-left: 24%;
+    margin-top: 30%;
+    transform: scale(.85);
+}
+
+}
+@media only screen and (min-width:600px) and (max-width: 767px){
+	.menuLi{
+    font-size: 300%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 190%;
+}
+
+.leftIncon{
+	margin-left: -8%;
+}
+
+.window3_button {
+    font-size: 11px;
+    width: 26%;
+    margin: 42% 0 0 50%;
+}
+
+.window_4 {
+    margin-top: 6%;
+}
+
+.windows_glaw_text4{
+    margin-bottom: 9%;
+}
+
+.window_4_spusok li:before {
+    border: 9px solid transparent;
+    border-bottom: 14px solid #23CD17;
+    top: -15px;
+    right: 10px;
+}
+
+.window4_button{
+    margin: 7% 0 0% 50%;
+    font-size: 8px;
+    width: 26%;
+}
+
+.settings_end_menu{
+	transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 1.2%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.settingsContent{
+    transform: scale(1.1);
+}
+
+.iconContent {
+    margin-top: 30%;
+    margin-left: -5%;
+}
+
+.flagBlock {
+    margin-top: 10%;
+}
+
+.settingsModalBlockContent {
+    width: 50%;
+    top: 25%;
+    left: 25%;
+    transform: scale(.9);
+}
+
+.closeSettings {
+    right: 29.5%;
+    top: 27%;
+    font-size: 49px;
+}
+
+.ulmenu {
+    left: 13%;
+}
+
+.settings_end_menu {
+    transform: scale(.85);
+}
+
+.hats_text {
+    font-size: 22px;
+}
+
+.buttons_hat{
+    margin-left: 27%;
+    margin-top: 15%;
+    font-size: 24px;
+}
+
+.hats {
+    margin-left: 23%;
+    margin-top: 30%;
+    transform: scale(.7);
+}
+
+}
+@media only screen and (min-width:500px) and (max-width: 600px){
+.menuLi{
+    font-size: 320%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 220%;
+}
+
+.leftIncon{
+	margin-left: -13%;
+}
+
+.settings_end_menu{
+	transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 1.2%;
+    transform: scale(.8);
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.BlackMenuBlock{
+	width: 140%;
+	animation: menuBlockAnim 1.5s linear;
+	transform: translateX(-13%) rotate(-40deg);
+}
+
+@keyframes menuBlockAnim{
+  0%{transform: translateX(-100%) rotate(0deg);}
+  50%{transform: translateX(0%) rotate(0deg);}
+  100%{transform: translateX(-13%) rotate(-40deg);}
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.settingsContent{
+    transform: scale(1.1);
+    margin-left: 33%;
+}
+
+.iconContent {
+    margin-top: 30%;
+    margin-left: -5%;
+}
+
+.flagBlock {
+    margin-top: 10%;
+}
+
+.settingsModalBlockContent {
+    width: 55%;
+    top: 25%;
+    left: 22.5%;
+    transform: scale(1);
+    background: linear-gradient(-135deg, transparent 60px, #111 0);
+}
+
+.closeSettings {
+    right: 24%;
+    top: 24%;
+    font-size: 49px;
+}
+
+.ulmenu {
+    top: 15%;
+    left: 26%;
+}
+
+.hats_text {
+    font-size: 20.5px;
+}
+
+.buttons_hat{
+    margin-left: 27%;
+    margin-top: 16%;
+    font-size: 23px;
+}
+
+.hats {
+    margin-left: 15%;
+    transform: scale(.7);
+}
+
+}
+@media only screen and (min-width:400px) and (max-width: 500px){
+
+.menuLi{
+    font-size: 300%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 200%;
+}
+
+.leftIncon{
+    margin-left: -14.5%;
+}
+
+.settings_end_menu{
+	transform: scale(.8);
+}
+
+.closeMenu {
+    padding: 0 1.5%;
+    transform: scale(.8);
+    top: 0%;
+    right: 0%;
+}
+
+@keyframes closeMenuAnimaShow{
+  0%{transform: scale(0);}
+  100%{transform: scale(.8);}
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.BlackMenuBlock {
+    width: 220%;
+    animation: menuBlockAnim 1.5s ease-in;
+    transform: translateX(-38%) rotate(-45deg);
+}
+
+@keyframes menuBlockAnim{
+  0%{transform: translateX(-100%) rotate(0deg);}
+  50%{transform: translateX(0%) rotate(0deg);}
+  100%{transform: translateX(-38%) rotate(-45deg);}
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.settingsContent{
+    transform: scale(1);
+    margin-left: 29%;
+}
+
+.iconContent {
+    margin-top: 30%;
+    margin-left: -5%;
+}
+
+.flagBlock {
+    margin-top: 10%;
+}
+
+.settingsModalBlockContent {
+    width: 60%;
+    top: 25%;
+    left: 19%;
+    transform: scale(1);
+    background: linear-gradient(-135deg, transparent 60px, #111 0);
+}
+
+.closeSettings {
+    right: 24%;
+    top: 24%;
+    font-size: 49px;
+}
+
+.ulmenu {
+    top: 18%;
+    left: 20%;
+}
+
+.hats_text {
+    font-size: 17px;
+    margin-top: 0;
+}
+
+.buttons_hat{
+    margin-left: 24%;
+    margin-top: 17%;
+    font-size: 20px;
+}
+
+.hats {
+    margin-left: 7%;
+    transform: scale(.6);
+    margin-top: 70%;
+}
+
+}
+@media only screen and (min-width:350px) and (max-width: 400px){
+.menuLi{
+    font-size: 270%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 150%;
+}
+
+.leftIncon{
+    margin-left: -14.5%;
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.settingsContent{
+    transform: scale(1);
+    margin-left: 29%;
+}
+
+.iconContent {
+    margin-top: 30%;
+    margin-left: -5%;
+}
+
+.flagBlock {
+    margin-top: 10%;
+}
+
+.settingsModalBlockContent {
+    width: 80%;
+    top: 25%;
+    left: 10.4%;
+    transform: scale(1);
+    background: linear-gradient(-135deg, transparent 60px, #111 0);
+}
+
+.closeSettings {
+    right: 12%;
+    top: 24%;
+    font-size: 49px;
+}
+
+.settings_end_menu {
+    transform: scale(.7);
+    right: -6%;
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.BlackMenuBlock{
+    width: 195%;
+    animation: menuBlockAnim 1.5s ease-in;
+    transform: translateX(-20%) rotate(-40deg);
+}
+
+@keyframes menuBlockAnim{
+  0%{transform: translateX(-100%) rotate(0deg);}
+  50%{transform: translateX(0%) rotate(0deg);}
+  100%{transform: translateX(-20%) rotate(-40deg);}
+}
+
+.ulmenu {
+    top: 25%;
+    left: 20%;
+}
+
+.settings_end_menu{
+    transform: scale(.76);
+    right: -6%;
+    top: 1.4%;
+}
+
+.hats_text {
+    font-size: 12px;
+    margin-top: -15%;
+}
+
+.buttons_hat{
+    margin-left: 20%;
+    margin-top: 17%;
+    font-size: 16px;
+}
+
+.hats {
+    margin-left: -2%;
+    transform: scale(.5);
+    margin-top: 70%;
+}
+
+.settings_end_menu{
+    transform: scale(.76);
+    right: -6%;
+    top: 1.4%;
+}
+
+.menu {
+    top: -10%;
+    left: 0px;
+}
+}
+
+@media only screen and (min-width:0px) and (max-width: 350px){
+.menuLi{
+    font-size: 270%;
+    margin-left: 0;
+}
+
+.menuLi3{
+    font-size: 150%;
+}
+
+.leftIncon{
+    margin-left: -14.5%;
+}
+
+.ScrollScwipe, .CursorCryg{
+    display: none;
+}
+
+.settingsContent{
+    transform: scale(1);
+    margin-left: 29%;
+}
+
+.iconContent {
+    margin-top: 30%;
+    margin-left: -5%;
+}
+
+.flagBlock {
+    margin-top: 10%;
+}
+
+.settingsModalBlockContent {
+    width: 80%;
+    top: 25%;
+    left: 10.4%;
+    transform: scale(1);
+    background: linear-gradient(-135deg, transparent 60px, #111 0);
+}
+
+.closeSettings {
+    right: 12%;
+    top: 24%;
+    font-size: 49px;
+}
+
+.settings_end_menu {
+    transform: scale(.7);
+    right: -6%;
+}
+
+.menuImg {
+    top: 0%;
+    right: 0%;
+    transform: scale(.75) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+  0%{transform: rotate(0deg) transform(.75);right: 35%;}
+  100%{transform: rotate(15deg) transform(.75);right: 0%;}
+}
+
+.BlackMenuBlock{
+    width: 195%;
+    animation: menuBlockAnim 1.5s ease-in;
+    transform: translateX(-20%) rotate(-40deg);
+}
+
+@keyframes menuBlockAnim{
+  0%{transform: translateX(-100%) rotate(0deg);}
+  50%{transform: translateX(0%) rotate(0deg);}
+  100%{transform: translateX(-20%) rotate(-40deg);}
+}
+
+.ulmenu {
+    top: 25%;
+    left: 20%;
+}
+
+.settings_end_menu{
+    transform: scale(.76);
+    right: -6%;
+    top: 1.4%;
+}
+
+.hats_text {
+    font-size: 12px;
+    margin-top: -15%;
+}
+
+.buttons_hat{
+    margin-left: 20%;
+    margin-top: 17%;
+    font-size: 16px;
+}
+
+.hats {
+    margin-left: -10%;
+    transform: scale(.5);
+    margin-top: 70%;
+}
+
+.settings_end_menu{
+    transform: scale(.76);
+    right: -6%;
+    top: 1.4%;
+}
+
+.menu {
+    top: -10%;
+    left: 0px;
+}
+}
+
+@media only screen and (min-width:374px) and (max-width: 415px) and (min-height: 800px) and (max-height: 850px){
+.buttons_hat {
+    margin-top: 22%;
+    margin-left: 14%;
+    width: 70%;
+    font-size: 18px;
+}
+
+.hats{
+    transform: scale(.7);
+    margin-top: 100%;
+}
+
+.hats_text {
+    font-size: 20px;
+    margin-top: -2%;
+}
+}
+
+@media only screen and (min-width:400px) and (max-width: 500px){
+.BlackMenuBlock {
+    width: 220%;
+    animation: menuBlockAnim 1.5s ease-in;
+    transform: translateX(-38%) rotate(-45deg);
+}
+
+@keyframes menuBlockAnim{
+  0%{transform: translateX(-100%) rotate(0deg);}
+  50%{transform: translateX(0%) rotate(0deg);}
+  100%{transform: translateX(-38%) rotate(-45deg);}
+}
+}
+
+@media only screen and (min-width:0px) and (max-width: 350px){
+.closeMenu{
+    padding: .1% 2.4%;
+    transform: scale(.9);
+}
+}
+
+/*2k*/
+@media only screen and (min-width:2000px) and (max-width: 3000px){
+
+@-webkit-keyframes effect{
+  0%{
+    clip:rect(55px,99999px,156px,0);
+  }
+
+  5%{
+    clip:rect(47px,99999px,130px,0);
+  }
+
+  10%{
+    clip:rect(33px,99999px,136px,0);
+  }
+
+  15%{
+    clip:rect(35px,99999px,19px,0);
+  }
+
+  20%{
+    clip:rect(63px,99999px,159px,0);
+  }
+
+  25%{
+    clip:rect(96px,99999px,198px,0);
+  }
+
+  30%{
+    clip:rect(48px,99999px,177px,0);
+  }
+
+  35%{
+    clip:rect(50px,99999px,134px,0);
+  }
+
+  40%{
+    clip:rect(60px,99999px,172px,0);
+  }
+
+  45%{
+    clip:rect(10px,99999px,181px,0);
+  }
+
+  50%{
+    clip:rect(2px,99999px,160px,0);
+  }
+
+  55%{
+    clip:rect(23px,99999px,189px,0);
+  }
+
+  60%{
+    clip:rect(76px,99999px,191px,0);
+  }
+
+  65%{
+    clip:rect(62px,99999px,130px,0);
+  }
+
+  70%{
+    clip:rect(60px,99999px,173px,0);
+  }
+
+  75%{
+    clip:rect(60px,99999px,187px,0);
+  }
+
+  80%{
+    clip:rect(2px,99999px,114px,0);
+  }
+
+  85%{
+    clip:rect(28px,99999px,187px,0);
+  }
+  90%{
+    clip:rect(73px,99999px,150px,0);
+  }
+
+  95%{
+    clip:rect(79px,99999px,170px,0);
+  }
+
+  100%{
+        clip:rect(17px,99999px,179px,0);
+  }
+}
+
+/*setings and menu*/
+.settings_end_menu{
+    transform: scale(1.4);
+}
+
+.settingsModalBlockContent{
+    transform: scale(1.4);
+    top: 26%;
+}
+
+.closeSettings{
+    top: 15%;
+    right: 31.5%;
+    font-size: 85px;
+}
+
+.menuImg{
+    right: 12%;
+    top: 12%;
+    width: 45%;
+}
+
+.ulmenu{
+    top: 22%;
+    font-size: 20px;
+}
+
+.closeMenu{
+    font-size: 35px;
+    right: .5%;
+}
+
+.hats {
+    margin-top: 25%;
+    margin-left: 36.5%;
+    width: 25%;
+}
+}
+
+/*4k*/
+@media only screen and (min-width:3840px){
+
+@-webkit-keyframes effect{
+  0%{
+    clip:rect(55px,99999px,156px,0);
+  }
+
+  5%{
+    clip:rect(47px,99999px,130px,0);
+  }
+
+  10%{
+    clip:rect(33px,99999px,136px,0);
+  }
+
+  15%{
+    clip:rect(35px,99999px,119px,0);
+  }
+
+  20%{
+    clip:rect(63px,99999px,159px,0);
+  }
+
+  25%{
+    clip:rect(96px,99999px,198px,0);
+  }
+
+  30%{
+    clip:rect(48px,99999px,177px,0);
+  }
+
+  35%{
+    clip:rect(50px,99999px,134px,0);
+  }
+
+  40%{
+    clip:rect(60px,99999px,172px,0);
+  }
+
+  45%{
+    clip:rect(10px,99999px,181px,0);
+  }
+
+  50%{
+    clip:rect(2px,99999px,160px,0);
+  }
+
+  55%{
+    clip:rect(23px,99999px,189px,0);
+  }
+
+  60%{
+    clip:rect(76px,99999px,191px,0);
+  }
+
+  65%{
+    clip:rect(62px,99999px,130px,0);
+  }
+
+  70%{
+    clip:rect(60px,99999px,173px,0);
+  }
+
+  75%{
+    clip:rect(60px,99999px,187px,0);
+  }
+
+  80%{
+    clip:rect(2px,99999px,114px,0);
+  }
+
+  85%{
+    clip:rect(28px,99999px,187px,0);
+  }
+  90%{
+    clip:rect(73px,99999px,150px,0);
+  }
+
+  95%{
+    clip:rect(79px,99999px,170px,0);
+  }
+
+  100%{
+    clip:rect(17px,99999px,179px,0);
+  }
+}
+
+/*setings and menu*/
+.settings_end_menu{
+   transform: scale(2);
+}
+.settingsContent{
+   font-size: 120px;
+}
+
+.toggle{
+    transform: scale(2.5);
+}
+
+.settingsModalBlockContent{
+    transform: scale(1.4);
+    top: 26%;
+}
+
+.flagsBlocks {
+    font-size: 22px;
+}
+
+.closeSettings{
+    top: 15%;
+    right: 31%;
+    font-size: 105px;
+}
+
+.menuImg{
+    right: 12%;
+    top: 12%;
+    width: 45%;
+}
+
+.ulmenu{
+    top: 22%;
+    font-size: 30px;
+}
+
+.closeMenu{
+    font-size: 45px;
+    right: .5%;
+    padding: 0 .40%;
+}
+
+.hats {
+    margin-top: 25%;
+    margin-left: 38.5%;
+    width: 25%;
+}
+
+.hats_text{
+    font-size: 120px;
+}
+
+.buttons_hat{
+    margin-top: 12%;
+    font-size: 80px;
+}
+}
+
+@media only screen and (min-width:700px) and (max-width: 800px) and (min-height: 900px) and (max-height: 1300px){
+.settingsModalBlockContent {
+    top: 30%;
+    left: 27.5%;
+    transform: scale(1.2);
+}
+
+.closeSettings {
+    right: 24.9%;
+    top: 25%;
+    font-size: 59px;
+}
+
+.ulmenu {
+    top: 30%;
+    left: 12%;
+}
+
+.menuImg {
+    top: 30%;
+    transform: scale(.95) rotate(15deg);
+}
+
+@keyframes menuImgAnimate{
+    0%{transform: rotate(0deg) scale(.95);right: 35%;}
+    100%{transform: rotate(15deg) scale(.95);right: 0%;}
+}
+
+.BlackMenuBlock{
+    transform: translateX(-45%) rotate(15deg);
+}
+
+@keyframes menuBlockAnim{
+0%{transform: translateX(-100%) rotate(0deg);}
+50%{transform: translateX(-45%) rotate(0deg);}
+100%{transform: translateX(-45%) rotate(15deg);}
+}
+
+.closeMenu{
+    transform: scale(1);
+}
+
+.settings_end_menu {
+    transform: scale(1);
+    top: 1%;
+    right: -2%;
+}
+
+.hats {
+    margin-top: 110%;
+}
+
+.buttons_hat {
+    padding: 2% 5%;
+}
+}
+
+@media only screen and (min-width:1400px) and (max-width: 1500px){.settingsModalBlockContent{width: 30%;top: -4.5%;left: 70% !important;}}
+@media only screen and (min-width:1300px) and (max-width: 1400px){.settingsModalBlockContent{width: 30%;top: -4%;left: 70% !important;}}
+@media only screen and (min-width:1200px) and (max-width: 1300px){.settingsModalBlockContent{width: 30%;top: -4%;left: 69% !important;}}
+@media only screen and (min-width:1100px) and (max-width: 1200px){.settingsModalBlockContent{width: 35%;top: -4%;left: 65% !important;}}
+@media only screen and (min-width:1000px) and (max-width: 1100px){.settingsModalBlockContent{width: 35%;top: -6%;left: 66% !important;transform: scale(.6);}}
+@media only screen and (min-width:900px) and (max-width: 1000px){.settingsModalBlockContent{width: 40%;top: -5%;left: 60% !important;}}
+@media only screen and (min-width:767px) and (max-width: 900px){.settingsModalBlockContent {width: 45%;top: -7%;left: 58% !important;transform: scale(.5);}}
+
+@media only screen and (min-width:0px) and (max-width: 767px){.settingsModalBlockContent{width: 30%;left: 38% !important;transform: scale(1); background: linear-gradient(-135deg, transparent 45px, #111 0);}.closeSettings{top: 22%;right: 32.5%;transform: scale(.9);}}
+
+@media only screen and (min-width:0px) and (max-width: 767px){
+
+.iconContent{
+    display: none;
+}
+
+}    
+
+@media only screen and (min-width:1400px) and (max-width: 1500px){.menuLi{font-size: 75%;}}
+@media only screen and (min-width:767px) and (max-width: 1000px){.menuLi2:hover:before, .menuLi2:hover:after{position: absolute;top: 0;left: 0;right: 0;overflow: hidden;background-color: #111;color: #FFF;margin-left: 0%;width: 100%;}}
+@media only screen and (min-width:1000px) and (max-width: 1300px){.menuLi2:hover:before, .menuLi2:hover:after{position: absolute;top: 0;left: 0;right: 0;overflow: hidden;background-color: #111;color: #FFF;margin-left: 0%;width: 130%;}}
